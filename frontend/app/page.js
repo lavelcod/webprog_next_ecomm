@@ -1,5 +1,9 @@
+import Features from "@/components/Features";
+
 export default function Home() {
   return (
-    <h2>وب پروگ</h2>
+    <div>
+      <Features />
+    </div>
   )
 }
